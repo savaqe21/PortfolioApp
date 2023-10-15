@@ -1,0 +1,16 @@
+[
+  {
+    "name": "iExpense",
+    "category": "HackingWithSwift",
+    "tech": "Swift, SwiftUI, Foundation",
+    "description": "This project is iExpense, which is an expense tracking app that separates personal expenses from business expenses. At its core, it's an app with a form (how much have you spent?) and a list (here are the amounts spent).",
+    "imageName": "iExpense-logo"
+  },
+  {
+    "name": "BetterRest",
+    "category": "HackingWithSwift",
+    "tech": "Swift, SwiftUI, CoreML, CreateML",
+    "description": "The app was built to help coffee drinkers get a good night's sleep by asking them three questions: When do they want to wake up? Approximately how many hours of sleep do they want? How many cups of coffee do they drink a day? Once we have these three values, we'll feed them into Core ML to get a result telling us when they should go to sleep. There are billions of possible answers - all the different wake up times multiplied by the number of hours you sleep, multiplied again by the full range of coffee amounts. This is where machine learning comes in: using a technique called regression analysis, we can ask a computer to come up with an algorithm capable of representing all of our data. This in turn allows the algorithm to be applied to fresh data it has not seen before and get accurate results.",
+    "imageName": "BetterRest-logo"
+  }
+]
